@@ -12,7 +12,7 @@ Phi merupakan nilai konstanta di matematika sementara jari-jari merupakan jarak 
 
 ## Flowchart Menghitung Luas & Keliling Lingkaran
 
-![gambar1](gambar1/sketsa1)
+![gambar1](menghitungluas-dan-kelilinglingkaran-/sketsa1.png)
 
 ## Program Python Menghitung Luas & Keliling Lingkaran
 
