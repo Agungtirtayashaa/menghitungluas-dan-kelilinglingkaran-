@@ -12,22 +12,13 @@ Phi merupakan nilai konstanta di matematika sementara jari-jari merupakan jarak 
 
 ## Flowchart Menghitung Luas & Keliling Lingkaran
 
-![gambar1](menghitungluas-dan-kelilinglingkaran-/sketsa1.png)
+![gambar1](gambar1/sketsa1.jpg)
 
 ## Program Python Menghitung Luas & Keliling Lingkaran
 
-import math
-r = float(input("Masukan Jari-jari : "))
+![gambar2](gambar1/sketsa2.jpg)
 
-luas = math.pi*(r*r)
-keliling = 2*math.pi*r
+## Output:
 
-print ("Luas Lingkaran \t\t= ",luas)
-print ("Keliling Lingkaran\t= ",keliling)
+![gambar3](gambar1/sketsa3.jpg)
 
-### Output:
-
-Masukan Jari-jari : 4.5
-
-Luas Lingkaran          = 63.61725123519331
-Keliling Lingkaran      = 28.274333882308138
