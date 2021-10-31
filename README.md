@@ -2,12 +2,12 @@
 
 ## Rumus Luas dan Keliling lingkaran 
 
-#### Luas     = π × r²
+  #### Luas     = π × r²
 
-#### Keliling = 2 x π × r
+  #### Keliling = 2 x π × r
 
-   ### Nilai Phi yang akan kita gunakan adalah 3.14
-   ### r merupakan jari-jari lingkaran
+### Nilai Phi yang akan kita gunakan adalah 3.14
+### r merupakan jari-jari lingkaran
 
 Phi merupakan nilai konstanta di matematika sementara jari-jari merupakan jarak antara titik pusat dengan tepi lingkaran. Sebetulnya ada rumus lain untuk menghitung keliling lingkaran yaitu dengan menggunakan diameter, tapi pada kasus ini kita cukup menggunakan jari jari lingkaran saja.
 
@@ -27,13 +27,13 @@ Phi merupakan nilai konstanta di matematika sementara jari-jari merupakan jarak 
 
 Program diatas saya mengimport modul math yang sudah di sediakan oleh python. Fungsinya supaya saya dapat menyertakan nilai phi yang sudah tersedia dalam modul tersebut dengan perintah math.pi jika kita coba mencetak fungsi tersebut maka akan menghasilkan nilai 3.14.
 
-import math
+#### import math
 
-print (math.pi)
+#### print (math.pi)
 
 ## Output:
 
-3.141592653589793
+#### 3.141592653589793
 
 Selanjutnya kita memerlukan nilai jari-jari (r) yang nantinya akan di masukan oleh pengguna pada layar console. Kita menggunakan fungsi input() yang nilainya di konversi ke tipe data float (bilangan riil). Ingat bahwa fungsi input() akan menganggap semua nilai inputan bertipe string, sehingga kita perlu melakukan konversi ke tipe yang diinginkan.
 
